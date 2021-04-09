@@ -1,7 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pintertamas&show_icons=false&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pintertamas&theme=solarized_dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pintertamas&title=Commit,Repositories&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pintertamas&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
