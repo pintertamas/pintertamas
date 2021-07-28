@@ -3,4 +3,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pintertamas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pintertamas&theme=solarized_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pintertamas&title=Commit,Repositories&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
